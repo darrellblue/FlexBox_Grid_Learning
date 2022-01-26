@@ -1,0 +1,166 @@
+
+.topnav {
+    background-color: black;
+    overflow: hidden;
+  font-size: 15px;
+  font-family: san-serif;
+  vertical-align: center;
+}
+.topnav3 {
+    background-color: gray;
+    overflow: hidden;
+    font-size: 15px;
+    font-family: san-serif;
+    vertical-align: center;
+  padding: 00px 80px
+}
+.topnav a {
+  float: left;
+  color: gray;
+  text-align: center;
+  padding: 16px 5px;
+  text-decoration: none;
+  font-size: 14px;
+  vertical-align: center;
+}
+
+.topnav3 a {
+  float: left;
+  color: lightgray;
+  text-align: center;
+  padding: 16px 5px;
+  text-decoration: none;
+  font-size: 14px;
+  vertical-align: center;
+}
+.topnav-image {
+  float: left;
+  text-align: center;
+  padding: 11px 13px 0px 100px ;
+  vertical-align: center;
+  
+  
+}
+
+
+.topnav a:hover {
+  color: white;
+}
+.topnav2 a:hover {
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+.topnav-right {
+  float: right;
+  padding: 0px 70px 0px 100px ;
+  vertical-align: center;
+}
+
+
+.topnav2 {
+ background: white;
+    overflow: hidden;
+    color: gray;
+    display: block;
+  
+}
+
+
+.topnav2 a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 5px;
+  text-decoration: none;
+  font-size: 20px;
+  
+ 
+}
+
+
+.topnav-text2 {
+  float: left;
+  text-align: center;
+  padding: 0px 13px 0px 100px;
+  font-size: 25px;
+  vertical-align:center;
+  position: relitive;
+ 
+}
+
+
+.topnav2 a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+
+.button {
+ 
+  color: White;
+  background-color: blue;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0px ;
+  padding: 7px;
+  
+}
+
+body {
+  background-color: gray;
+ 
+  
+}
+
+.section {
+    display: block;
+    margin: 20%;
+  
+  
+}
+ 
+ 
+  
+
+
+
+div.gallery {
+  margin: 10px;
+  border: 1px solid #777;
+  float: left;
+  width: 17%;
+  
+}
+
+
+div.gallery img {
+  width: 270px;
+  height:auto;
+ 
+}
+
+div.block {
+  padding: 15px 08px 10px 10px;
+  text-align: center;
+}
+
+.row{
+  
+  width:23px;
+  height:23px;
+  background-image: url( https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/92571526_234309467973483_4494921379660955648_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4Mhr4w3X2v0AX9QgHdd&_nc_ht=scontent-ort2-1.xx&oh=68d437a3b49e4b5f288301f7de8d0b4a&oe=618EF5FC);
+  background-size:cover;
+  background-position:center;
+  border-radius:50%;
+}
+.rowtext {
+  padding: 00px 8px;
+}
